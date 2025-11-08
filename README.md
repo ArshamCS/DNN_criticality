@@ -1,10 +1,5 @@
-# Avalanches Simulator
+# Avalanche Simulator
 
-Simulate perturbation avalanches in random MLP networks.
+Assess deep learning criticality in terms of avalanche dynamics, according to manuscript "Toward a Physics of Brains and Deep Learning," at: https://arxiv.org/abs/2509.22649
 
-## Installation
-
-```bash
-conda env create -f environment.yml
-conda activate avalanches_env
 
